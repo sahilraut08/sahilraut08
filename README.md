@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working on a MERN stack website<br>🤝🏼 I'm looking to collaborate on software engineering projects<br>🕸️ Ask me about the Web Dev<br>⚡️ Fun fact : I sleep 5 hours a day
+💻 I'm currently working on a MERN stack website<br>🤝🏼 I'm looking to collaborate on software engineering projects<br>🕸️ Ask me about the Web Dev<br>⚡️ Fun fact : I can sleep at 5 AM and still be at work at 8 AM
 
 
 # 💻 Tech Stack:
